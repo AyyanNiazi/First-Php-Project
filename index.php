@@ -16,5 +16,8 @@
         <input type='submit' /> <br/>
      </form>
 
+
+     <a href="GetLink.php?name=arslan"> Get Request </a>
+
 </body>
 </html>
